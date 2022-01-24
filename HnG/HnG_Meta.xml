@@ -29,5 +29,19 @@
       <MixPresetVersion>15</MixPresetVersion>
       <SaveTime>2022-01-22T13:50:20.8690123-05:00</SaveTime>
     </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>long_box</Name>
+      <MixerXMLPath>C:\Users\Jose\Documents\Quixel Mixer\Projects\HnG\long_box\long_box.xml</MixerXMLPath>
+      <MixerVersion>2021.1.2</MixerVersion>
+      <MixPresetVersion>15</MixPresetVersion>
+      <SaveTime>2022-01-23T13:03:38.0515117-05:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>small_box</Name>
+      <MixerXMLPath>C:\Users\Jose\Documents\Quixel Mixer\Projects\HnG\small_box\small_box.xml</MixerXMLPath>
+      <MixerVersion>2021.1.2</MixerVersion>
+      <MixPresetVersion>15</MixPresetVersion>
+      <SaveTime>2022-01-23T19:37:57.9944891-05:00</SaveTime>
+    </StudioAssetMeta>
   </StudioAssetMetas>
 </StudioProjectMetaData>
