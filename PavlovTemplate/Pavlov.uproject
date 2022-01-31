@@ -11,6 +11,10 @@
 		{
 			"Name": "SteamAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "CustomMapTools",
+			"Enabled": true
 		}
 	]
 }
